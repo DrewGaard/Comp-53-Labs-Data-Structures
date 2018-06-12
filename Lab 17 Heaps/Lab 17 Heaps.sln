@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 17 Heaps", "Lab 17 Heaps\Lab 17 Heaps.vcxproj", "{3CA61CE1-51AE-43B4-A9BA-9998648F3C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA61CE1-51AE-43B4-A9BA-9998648F3C05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3CA61CE1-51AE-43B4-A9BA-9998648F3C05}.Debug|Win32.Build.0 = Debug|Win32
+		{3CA61CE1-51AE-43B4-A9BA-9998648F3C05}.Release|Win32.ActiveCfg = Release|Win32
+		{3CA61CE1-51AE-43B4-A9BA-9998648F3C05}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
